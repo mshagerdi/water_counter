@@ -1,0 +1,1 @@
+String appTitle = 'Water Counter';
